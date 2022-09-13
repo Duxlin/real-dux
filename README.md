@@ -71,7 +71,10 @@ Sh instalar.sh
 Sh start.sh
 
 ```
-
+<h5><font size="2"><a href="Don't forget to edit configura.js"><font color="red"></font></h5>          
+</p> 
+<h5 align="center">Don't forget to edit configura.js 🔥</h5>
+<p align="center">
 > ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 # INSTALL
